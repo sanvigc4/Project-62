@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+.menu{
+    font-family:sans-serif;
+    position:fixed;
+    top:0px;
+    background:white;;
+    margin-top:0px;
+    width:100%;
+    z-index:10;
+}
+.links{
+    display:inline;
+    padding-left:33px;
+    padding-right:25px;
+    font-family:fantasy;
+    font-size: 23px;
+    color: white;
+}
+section{
+     background: linear-gradient(orange, white, green)
+}
+p{
+    font-size: 30;
+    font-family: cursive;
+}
+html{
+    scroll-behavior: smooth;
+}
+#grid img{
+    border-radius: 10px;
+    margin: 5px;
+}
+h1{
+    font-size: 30px;
+    font-family:fantasy;
+}
+#home{
+    background-image:"final.jpg";
+}
