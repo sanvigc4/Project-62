@@ -24,6 +24,7 @@ section{
 p{
     font-size: 30;
     font-family: cursive;
+    color: blue;
 }
 html{
     scroll-behavior: smooth;
